@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>QRCreate.xcscheme</key>
+		<key>QRcreate.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>6C2BB0621E4AC5E600D6D7A4</key>
+		<key>6CC2D96D1E6EBF0F00A1C82B</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>6C2BB07E1E4AC5E600D6D7A4</key>
+		<key>6CC2D9841E6EBF0F00A1C82B</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>6C2BB0891E4AC5E600D6D7A4</key>
+		<key>6CC2D98F1E6EBF0F00A1C82B</key>
 		<dict>
 			<key>primary</key>
 			<true/>

@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "6C2BB0621E4AC5E600D6D7A4"
-               BuildableName = "QRCreate.app"
-               BlueprintName = "QRCreate"
-               ReferencedContainer = "container:QRCreate.xcodeproj">
+               BlueprintIdentifier = "6CC2D96D1E6EBF0F00A1C82B"
+               BuildableName = "QRcreate.app"
+               BlueprintName = "QRcreate"
+               ReferencedContainer = "container:QRcreate.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "6C2BB07E1E4AC5E600D6D7A4"
-               BuildableName = "QRCreateTests.xctest"
-               BlueprintName = "QRCreateTests"
-               ReferencedContainer = "container:QRCreate.xcodeproj">
+               BlueprintIdentifier = "6CC2D9841E6EBF0F00A1C82B"
+               BuildableName = "QRcreateTests.xctest"
+               BlueprintName = "QRcreateTests"
+               ReferencedContainer = "container:QRcreate.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "6C2BB0891E4AC5E600D6D7A4"
-               BuildableName = "QRCreateUITests.xctest"
-               BlueprintName = "QRCreateUITests"
-               ReferencedContainer = "container:QRCreate.xcodeproj">
+               BlueprintIdentifier = "6CC2D98F1E6EBF0F00A1C82B"
+               BuildableName = "QRcreateUITests.xctest"
+               BlueprintName = "QRcreateUITests"
+               ReferencedContainer = "container:QRcreate.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6C2BB0621E4AC5E600D6D7A4"
-            BuildableName = "QRCreate.app"
-            BlueprintName = "QRCreate"
-            ReferencedContainer = "container:QRCreate.xcodeproj">
+            BlueprintIdentifier = "6CC2D96D1E6EBF0F00A1C82B"
+            BuildableName = "QRcreate.app"
+            BlueprintName = "QRcreate"
+            ReferencedContainer = "container:QRcreate.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6C2BB0621E4AC5E600D6D7A4"
-            BuildableName = "QRCreate.app"
-            BlueprintName = "QRCreate"
-            ReferencedContainer = "container:QRCreate.xcodeproj">
+            BlueprintIdentifier = "6CC2D96D1E6EBF0F00A1C82B"
+            BuildableName = "QRcreate.app"
+            BlueprintName = "QRcreate"
+            ReferencedContainer = "container:QRcreate.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6C2BB0621E4AC5E600D6D7A4"
-            BuildableName = "QRCreate.app"
-            BlueprintName = "QRCreate"
-            ReferencedContainer = "container:QRCreate.xcodeproj">
+            BlueprintIdentifier = "6CC2D96D1E6EBF0F00A1C82B"
+            BuildableName = "QRcreate.app"
+            BlueprintName = "QRcreate"
+            ReferencedContainer = "container:QRcreate.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
